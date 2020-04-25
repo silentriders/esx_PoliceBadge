@@ -11,7 +11,7 @@ or contact me in discord for any help: xEnzoC94x#0300
  - Extract it
  - Open client/main.lua in esx_policejob and Paste this code
  
---------------------------------------------------------------------------------------------------------------------------------------
+---
  
  function openMenu()
   ESX.UI.Menu.Open(
@@ -72,7 +72,7 @@ end)
 
 
 
---------------------------------------------------------------------------------------------------------------------------------------
+---
 
  - Paste esx_policeBadge 
  - Insert SQL files into your database
